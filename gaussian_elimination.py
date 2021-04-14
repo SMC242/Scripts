@@ -26,9 +26,9 @@ PRIMES = [2, 3, 5, 7, 11, 13, 17, 19, 23]
 # I will initially assume 3 equations.
 # >3 equations will be supported later
 SYSTEM: SystemType = [
-    [-7, -3, 3, 12],
-    [2, 2, 2, 0],
-    [-1, -4, 3, -9]
+    (-7, -3, 3, 12),
+    (2, 2, 2, 0),
+    (-1, -4, 3, -9),
 ]
 
 
