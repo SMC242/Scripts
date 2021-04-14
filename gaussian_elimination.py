@@ -1,3 +1,13 @@
+"""
+# Objectives
+- Learn how to use Gaussian Elimination by implementing it in Python 
+
+# Requirements
+- Implement all maths operations myself
+- The code should be as close to my thought process as possible
+- Support a 3 equation system initially and extend to support n equations
+"""
+
 from typing import Tuple, List, NamedTuple, Iterable
 from functools import reduce
 # Should be in the format: {x coefficient} {y coefficient} {z coefficient} {solution}
